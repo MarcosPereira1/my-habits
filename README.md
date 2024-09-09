@@ -8,6 +8,7 @@ Bem-vindo ao repositório do "Meus Hábitos"! Este é um aplicativo mobile desen
   <img src="https://github.com/user-attachments/assets/1b58464d-b254-4753-8f79-803bf5150cef" alt="Screenshot 1" width="300"/>
   <img src="https://github.com/user-attachments/assets/a1ee5160-0a19-4627-a93d-c35f1ea4e3e1" alt="Screenshot 2" width="300"/>
   <img src="https://github.com/user-attachments/assets/b07453f7-bfac-4c08-b8bc-adb3bdc195d1" alt="Screenshot 3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/f220d276-0d06-4960-b4da-7220dcf35fe0" alt="Screenshot 4" width="300"/>
 </div>
 
 
